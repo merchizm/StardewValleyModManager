@@ -18,7 +18,7 @@ Stardew Valley modlarınızı yönetmek için basit ve kullanıcı dostu bir uyg
 
 ## Kurulum
 
-1. En son sürümü [Releases](https://github.com/kullaniciadi/StardewValleyModManager/releases) sayfasından indirin
+1. En son sürümü [Releases](https://github.com/merchizm/StardewValleyModManager/releases) sayfasından indirin
 2. Zip dosyasını bilgisayarınızda oyunun olduğu dizine bir konuma çıkarın
 3. `StardewValleyModManager.exe` dosyasını çalıştırın
 

@@ -18,7 +18,7 @@ A simple and user-friendly application to manage your Stardew Valley mods.
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/StardewValleyModManager/releases) page
+1. Download the latest release from the [Releases](https://github.com/merchizm/StardewValleyModManager/releases) page
 2. Extract the zip file to the game files location on your computer
 3. Run `StardewValleyModManager.exe`
 
